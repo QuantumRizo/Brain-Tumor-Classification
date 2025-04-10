@@ -1,0 +1,10 @@
+Data/*
+
+!Data/*/
+
+!Data/glioma_tumor/*G_1.jpg
+!Data/meningioma_tumor/*M_1.jpg
+!Data/normal/*N_1.jpg
+!Data/pituitary_tumor/*P_1.jpg
+
+Data/*/*.*
